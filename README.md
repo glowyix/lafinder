@@ -27,6 +27,16 @@ To install these libraries:
 pip install -r requirements.txt
 
 
+## Ekran Görüntüleri
+
+### Login Finder
+
+![Login Finder](https://raw.githubusercontent.com/glowyix/lafinder/main/Usage-Images/loginfinder.PNG)
+
+#### Açıklama
+
+Bu ekran görüntüsü, Login Finder aracının nasıl çalıştığını ve elde edilen sonuçları göstermektedir.
+
 
 
 
