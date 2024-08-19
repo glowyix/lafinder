@@ -27,24 +27,24 @@ To install these libraries:
 pip install -r requirements.txt
 
 
-## Ekran Görüntüleri
+## ScreenShot
 
 ### Login Finder
 
 ![Login Finder](https://raw.githubusercontent.com/glowyix/lafinder/main/Usage-Images/loginfinder.PNG)
 
-#### Açıklama
+#### Explanation
 
-Bu ekran görüntüsü, Login Finder aracının nasıl çalıştığını ve elde edilen sonuçları göstermektedir.
+This screenshot shows how the Login Finder tool works and the results obtained.
 
 
 ### Admin Finder
 
 ![Admin Finder](https://raw.githubusercontent.com/glowyix/lafinder/main/Usage-Images/adminfinder.PNG)
 
-#### Açıklama
+#### Explanation
 
-Bu ekran görüntüsü, Admin Finder aracının nasıl çalıştığını ve elde edilen sonuçları göstermektedir.
+This screenshot shows how the Admin Finder tool works and the results obtained.
 
 
 
