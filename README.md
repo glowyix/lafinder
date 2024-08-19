@@ -38,8 +38,13 @@ pip install -r requirements.txt
 Bu ekran görüntüsü, Login Finder aracının nasıl çalıştığını ve elde edilen sonuçları göstermektedir.
 
 
+### Admin Finder
 
+![Admin Finder](https://raw.githubusercontent.com/glowyix/lafinder/main/Usage-Images/adminfinder.PNG)
 
+#### Açıklama
+
+Bu ekran görüntüsü, Admin Finder aracının nasıl çalıştığını ve elde edilen sonuçları göstermektedir.
 
 
 
